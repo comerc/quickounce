@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "952563444480",
+    "project_id": "quickounce-da1ec",
+    "storage_bucket": "quickounce-da1ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952563444480:android:124a029d8638cdf3be61e5",
+        "android_client_info": {
+          "package_name": "com.arisesoft.quickounce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952563444480-6his1341ndd959m5gqa4pvc027s572q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arisesoft.quickounce",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "952563444480-bns3tce9vgr7e6gahavkjlp45shg3uoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wUBmZT4VCgln8OJVuezLPznKEmI06ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952563444480-bns3tce9vgr7e6gahavkjlp45shg3uoa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952563444480-vdcccsenm3bj6thik5armqe2fiv7k0tl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arisesoft.quickounce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
